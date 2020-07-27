@@ -36,6 +36,8 @@
 # OS
 * Linux cron
 >> https://crontab.guru/
+* WSL, Linux subsystem
+>> https://docs.microsoft.com/en-us/windows/wsl/install-win10
 
 
 # Tools

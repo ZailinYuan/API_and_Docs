@@ -11,6 +11,8 @@
 >>  https://datatables.net/docs/DataTables/1.9.4/DataTable.defaults.columns.html#mData
 * W3 Accessible Rich Internet Applications
 >> https://www.w3.org/TR/wai-aria/#aria-invalid
+* JQuery validator
+>> https://jqueryvalidation.org/validate/
 
 # Spark
 * https://spark.apache.org/docs/1.1.1/api/python/pyspark.rdd.RDD-class.html#reduceByKey

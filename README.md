@@ -19,6 +19,8 @@
 >> https://api.jqueryui.com/datepicker/
 * JQuery API
 >> http://hemin.cn/jq/
+* button input submit 区别
+>> https://harttle.land/2015/08/03/form-submit.html
 
 # Spark
 * https://spark.apache.org/docs/1.1.1/api/python/pyspark.rdd.RDD-class.html#reduceByKey

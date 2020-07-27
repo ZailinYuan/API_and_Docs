@@ -9,6 +9,8 @@
 >> https://juejin.im/post/5ba7d5dd5188255c6140cc9d#heading-2
 * DataTable
 >>  https://datatables.net/docs/DataTables/1.9.4/DataTable.defaults.columns.html#mData
+* W3 Accessible Rich Internet Applications
+>> https://www.w3.org/TR/wai-aria/#aria-invalid
 
 # Spark
 * https://spark.apache.org/docs/1.1.1/api/python/pyspark.rdd.RDD-class.html#reduceByKey

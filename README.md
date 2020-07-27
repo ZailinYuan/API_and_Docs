@@ -17,6 +17,8 @@
 >> https://tc39.es/ecma262/#sec-promise.resolve
 * Datepicker
 >> https://api.jqueryui.com/datepicker/
+* JQuery API
+>> http://hemin.cn/jq/
 
 # Spark
 * https://spark.apache.org/docs/1.1.1/api/python/pyspark.rdd.RDD-class.html#reduceByKey

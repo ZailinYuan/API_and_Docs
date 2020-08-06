@@ -25,8 +25,9 @@
 # Spark
 * https://spark.apache.org/docs/1.1.1/api/python/pyspark.rdd.RDD-class.html#reduceByKey
 * <b>RDD:</b> 
+>> 1. RDD API:
 >>>> * https://spark.apache.org/docs/2.3.0/api/java/org/apache/spark/rdd/RDD.html
->> 1. Actions & Transformation
+>> 1. Actions & Transformation:
 >>>> * https://spark.apache.org/docs/latest/rdd-programming-guide.html#rdd-operations
 * <b>Spark Regular Expression:</b>
 >> * https://www.tutorialspoint.com/scala/scala_regular_expressions.htm

@@ -27,7 +27,7 @@
 * <b>RDD:</b> 
 >> * https://spark.apache.org/docs/2.3.0/api/java/org/apache/spark/rdd/RDD.html
    * Actions & Transformation
->> * https://spark.apache.org/docs/latest/rdd-programming-guide.html#rdd-operations
+     >> * https://spark.apache.org/docs/latest/rdd-programming-guide.html#rdd-operations
 * <b>Spark Regular Expression:</b>
 >> * https://www.tutorialspoint.com/scala/scala_regular_expressions.htm
 

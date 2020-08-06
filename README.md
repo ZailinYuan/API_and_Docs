@@ -24,6 +24,8 @@
 
 # Spark
 * https://spark.apache.org/docs/1.1.1/api/python/pyspark.rdd.RDD-class.html#reduceByKey
+* RDD: 
+>> * https://spark.apache.org/docs/2.3.0/api/java/org/apache/spark/rdd/RDD.html
 
 # Hadoop
 * https://proquest.safaribooksonline.com/9781449328917

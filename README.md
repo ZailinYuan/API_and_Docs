@@ -23,10 +23,10 @@
 >> https://harttle.land/2015/08/03/form-submit.html
 
 # Spark
-* https://spark.apache.org/docs/1.1.1/api/python/pyspark.rdd.RDD-class.html#reduceByKey
 * <b>RDD:</b> 
 >> 1. RDD API:
 >>>> * https://spark.apache.org/docs/2.3.0/api/java/org/apache/spark/rdd/RDD.html
+>>>> * https://spark.apache.org/docs/1.1.1/api/python/pyspark.rdd.RDD-class.html#reduceByKey
 >> 2. Actions & Transformation:
 >>>> * https://spark.apache.org/docs/latest/rdd-programming-guide.html#rdd-operations
 * <b>Spark Regular Expression:</b>

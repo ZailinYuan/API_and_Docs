@@ -38,10 +38,14 @@
 >> 2. SparkSession API:
 >>>> * https://spark.apache.org/docs/2.3.0/api/java/org/apache/spark/sql/SparkSession.html
 
-* <b>SaprkSQL</b>
+* <b>SparkSQL</b>
 >> 1. Spark SQL API:
 >>>> * https://spark.apache.org/docs/latest/api/java/org/apache/spark/sql/functions.html
 >>>> * https://spark.apache.org/docs/latest/api/sql/index.html
+
+* <b>Spark Machine Learning/Deep Learning</b>
+>> 1. NLP:
+>>>> * https://nlp.johnsnowlabs.com/docs/en/install
 
 # Hadoop
 * https://proquest.safaribooksonline.com/9781449328917

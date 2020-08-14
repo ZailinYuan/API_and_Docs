@@ -54,6 +54,9 @@
 # DB
 * Mongo, gitee
 >> https://gitee.com/heguangchuan/rainmeter/blob/master/document/mongodb/05-%E6%96%87%E6%A1%A3.md
+* Uninstall mysql
+>> https://oofloo.com/uninstall-mysql-ubuntu/
+
 
 # OS
 * Linux cron

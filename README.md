@@ -22,6 +22,10 @@
 * button input submit 区别
 >> https://harttle.land/2015/08/03/form-submit.html
 
+# Full Stack
+* About package.json for NodeJS:
+>> https://nodejs.org/en/knowledge/getting-started/npm/what-is-the-file-package-json/
+
 # Spark
 * <b>RDD:</b> 
 >> 1. RDD API:

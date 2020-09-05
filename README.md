@@ -67,10 +67,13 @@
 >> https://crontab.guru/
 * WSL, Linux subsystem
 >> https://docs.microsoft.com/en-us/windows/wsl/install-win10
+* Ubuntu offical document
+>> https://ubuntu.com/server/docs
 
 # Server
 * Nginx change default port:
 >> https://www.tecmint.com/change-nginx-port-in-linux/#:~:text=In%20Ubuntu%20and%20Debian%20based,shown%20in%20the%20below%20excerpt.
+
 
 
 # Tools

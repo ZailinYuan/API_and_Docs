@@ -51,6 +51,9 @@
 >> 1. NLP:
 >>>> * https://nlp.johnsnowlabs.com/docs/en/install
 
+* <b>Spark API in Scala</b>
+>>>> https://spark.apache.org/docs/2.3.0/api/scala/
+
 # Hadoop
 * https://proquest.safaribooksonline.com/9781449328917
 
